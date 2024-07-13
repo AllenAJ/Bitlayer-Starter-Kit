@@ -94,6 +94,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 For any questions, please contact us at [Bitlayer Developers Community](https://t.me/+oqkpw7Sqm3U1NGNl).
-```
-
-This streamlined version maintains essential information while simplifying the setup process for users.
