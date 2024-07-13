@@ -10,9 +10,7 @@
   "author": "Allen Joseph",
   "license": "MIT",
   "dependencies": {
-    // Add your project dependencies here
   },
   "devDependencies": {
-    // Add your project dev dependencies here
   }
 }
